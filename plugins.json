@@ -1,0 +1,13 @@
+[
+  {
+    "internalName": "dkrsinj-tob",
+    "hash": "88840c3dd659bcc2bc645f259f6b7d323ac1cc16d8edc6bf62d0e0b0193efb58",
+    "size": 73126,
+    "plugins": [
+      "com.dkrsinj.runelite.TheatrePlugin"
+    ],
+    "displayName": "theatre",
+    "description": "",
+    "provider": "plugin"
+  }
+]

@@ -1,0 +1,11 @@
+  {
+    "internalName": "example-1.0-SNAPSHOT",
+    "hash": "fdfd20b0a8be7c28066b3e10c7dd2a4309d68ea6a820a39e612be74c627ed407",
+    "size": 2469,
+    "plugins": [
+      "com.example.runelite.ExamplePlugin"
+    ],
+    "displayName": "test",
+    "description": "",
+    "provider": "plugin"
+  }
